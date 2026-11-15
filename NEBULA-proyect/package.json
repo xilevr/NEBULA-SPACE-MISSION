@@ -1,0 +1,10 @@
+{
+  "name": "nebula-space-mission-design-game",
+  "version": "1.0.0",
+  "description": "NEBULA - Space Mission Design Game (NASA Space Apps Challenge)",
+  "scripts": {
+    "build": "python build.py",
+    "test": "node tests/fisica.test.js"
+  },
+  "license": "MIT"
+}
